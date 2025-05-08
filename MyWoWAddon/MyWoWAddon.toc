@@ -1,0 +1,8 @@
+## MyWoWAddon.toc
+## Title: MyWoWAddon
+## Notes: A simple addon to display player's health.
+## Version: 69.420
+## Author: JayDDias
+## Dependencies: 
+
+MyWoWAddon.lua

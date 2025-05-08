@@ -1,0 +1,7 @@
+## Interface: 100207
+## Title: Magic Wand
+## Notes: A movable transparent circle UI element
+## Author: You
+## Version: 1.0
+
+MagicWand.lua
